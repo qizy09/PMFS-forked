@@ -1,3 +1,5 @@
+# PMFS-forked
+=================
 
 PMFS Introduction
 =================
@@ -91,16 +93,3 @@ blocksize is 1GB, the file can grow up to 128 PB.
 * PMFS currently only works with x86_64 kernels.
 
 
-Contributing
-============
-
-Please send bug reports/comments/feedback to the PMFS development
-list: linux-pmfs@lists.infradead.org
-You are also encouraged to subscribe to the mailing list
-by sending an email with the Subject line **subscribe** to
-linux-pmfs-request@lists.infradead.org.
-
-We prefer pull requests as patches sent to the mailing list.
-
-Also feel free to join us on the IRC channel #pmfs on irc.oftc.net.
-# PMFS-forked
