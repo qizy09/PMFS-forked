@@ -1,7 +1,6 @@
 # PMFS-forked
 =================
-
-This is a forked PMFS, originally by Intel, and I did some tiny adjustments.
+This is project's repository based on a forked PMFS, originally by Intel, and I did some tiny adjustments.
 
 
 PMFS Introduction
